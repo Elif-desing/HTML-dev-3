@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Tarifler | Gelin Pastası</title>
 </head> 
 <body style="background-color:rgb(228, 180, 202);">
-    
+    <!--Navbar - Start-->
     <header>
         <nav>
             <p ><h3  style="color:rgb(173, 113, 230);" style="text-align:center;"><em><strong>Hazırlama:10dk</strong> <strong>Pişirme:25dk</strong> <strong>10-12 kişilik</strong></em></h3></p>
@@ -15,7 +15,12 @@
         <img src="https://i.nefisyemektarifleri.com/2022/02/04/gelin-pastasi-videosu-tam-kivaminda-8.jpg" alt="">
         </nav>
 
+    </header>
+    <!--Navbar - End-->
 
+     <!--Contect - Start-->
+    <section>
+        <!--Article - Start-->
  <p>
     <h2 style="color:rgb(128, 54, 82);"><i> Tarif İçin Malzemeler</i> </h2>
  </p>
@@ -84,9 +89,9 @@
     </article>
     
 
- 
-    
- 
+ <!--Article - End-->
+    </section>
+ <!--Contect - End-->
 
     
 </body>
